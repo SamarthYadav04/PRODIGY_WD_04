@@ -27,7 +27,7 @@ This portfolio serves as a digital resume and showcases my journey, skills, and 
 
 - HTML5
 - CSS3 (Flexbox & Grid)
-- JavaScript (DOM Manipulation)
+- JavaScript 
 - Font Awesome for icons
 
 
